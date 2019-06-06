@@ -1,3 +1,5 @@
+*.swp
+*.bak
 files/20170906213819.pdf
 index.nginx-debian.html
 vim_snippets/
